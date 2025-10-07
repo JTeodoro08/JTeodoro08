@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou José Teodoro
 
-<img align="right" width="150" src="https://github.com/JTeodoro08/desafio-avanade-microservicos/raw/main/assets/img/my-photo.png" alt="Foto de Perfil">
-
 Sou **desenvolvedor full-stack** apaixonado por **.NET, microserviços e arquitetura de software**, sempre buscando soluções robustas e escaláveis.  
 
 📍 Localização: Paulista, PE, Brasil  
